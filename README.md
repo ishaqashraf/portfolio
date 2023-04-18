@@ -19,7 +19,7 @@
 
 4. __TapIn__:
     
-    Android: <https://play.google.com/store/apps/details?id=com.tapin.league&hl=en&gl=US/><br/>
+    Android: <https://play.google.com/store/apps/details?id=com.tapin.league/><br/>
     IOS: <https://apps.apple.com/us/app/tapin-league-management/id1474306154/>
 
 5. __Transform__:
