@@ -9,7 +9,7 @@
     
 2. __Looptify__:
     
-    Android: <https://play.google.com/store/apps/details?id=com.looptify.looptifyapp/><br/>
+    Android: <https://play.google.com/store/apps/details?id=com.looptify.looptifyapp><br/>
     IOS: <https://apps.apple.com/us/app/looptify/id1443666043/>
 
 3. __Eyelevel ADHD__:
