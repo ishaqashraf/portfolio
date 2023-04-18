@@ -9,7 +9,7 @@
 
 2. __Eyelevel ADHD__:
     
-    Android: <https://play.google.com/store/apps/details?id=coach.doc.eyelevel/><br/>
+    Android: <https://play.google.com/store/apps/details?id=coach.doc.eyelevel><br/>
     IOS: <https://apps.apple.com/tt/app/eyelevel/id1509691528/>
 
 3. __Chicago Barber__:
