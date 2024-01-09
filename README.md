@@ -12,7 +12,7 @@ Welcome to my portfolio! 🚀 Explore the various mobile applications I've devel
    - Android: [Google Play](https://play.google.com/store/apps/details?id=com.looptify.looptifyapp)
    - iOS: [App Store](https://apps.apple.com/us/app/looptify/id1443666043/)
 
-3. **Eyelevel ADHD:**
+3. **medigital® ADHS:**
    - Android: [Google Play](https://play.google.com/store/apps/details?id=coach.doc.eyelevel)
    - iOS: [App Store](https://apps.apple.com/tt/app/eyelevel/id1509691528/)
 
