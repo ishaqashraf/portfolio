@@ -23,7 +23,15 @@
 ### 1. Wolfpack · Fintech expense management (2024 to now)
 **Role:** Senior React Native Consultant · owns product and engineering on a small startup team (Copenhagen, remote)
 
-<!-- TODO: add 2-3 screenshots, e.g. <img src="assets/wolfpack-1.png" width="230" /> -->
+<p>
+  <img src="assets/wolfpack-receipt-scan.png" width="230" />
+  <img src="assets/wolfpack-approvals.png" width="230" />
+  <img src="assets/wolfpack-biometric.jpeg" width="230" />
+</p>
+
+<p>
+  <img src="assets/wolfpack-dashboard.png" width="700" />
+</p>
 
 - **AI receipt scanner:** camera capture (JPEG, PNG, PDF) → automatic expense-data extraction, streamed live into the app and web dashboard
 - **Security-first auth:** biometric sign-in with **Ed25519** cryptographic signatures and secure keychain storage
