@@ -1,160 +1,120 @@
-<h1 align="center">📱 Ishaq Ashraf — App Portfolio</h1>
-<h3 align="center">12+ production mobile apps shipped across fintech, healthcare, sports, retail & entertainment</h3>
+<h1 align="center">Ishaq Ashraf · App Portfolio</h1>
+<h3 align="center">Senior Full Stack & React Native Engineer · 8+ years · Fintech, health and AI-powered products</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,aws,firebase,graphql,apple,androidstudio&theme=dark" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ishaqashraf-35249095/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="tel:+971503063964"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ishaq-ashraf-35249095/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ishaqashraf90@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ishaqashraf"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://wa.me/923428346754"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  📍 Karachi, Pakistan · 🌍 Open to remote roles worldwide (any time zone) and relocation with visa sponsorship
+</p>
+
+<p align="center">
+  <b>8+ years</b> in software &nbsp;·&nbsp; <b>6+ years</b> remote with US, Swiss and Danish teams &nbsp;·&nbsp; <b>20+</b> production apps shipped (best ones below)
 </p>
 
 ---
 
-## 👋 About
+## ⭐ Featured work
 
-I'm a Senior Full Stack Engineer with 8+ years building production-grade React Native and full-stack applications. Below is a curated list of apps I've architected, built, or shipped end-to-end — live on the App Store and Google Play, serving real users across fintech, healthcare, sports, retail, and entertainment. A few are under NDA and listed without store links.
+### 1. Wolfpack · Fintech expense management (2024 to now)
+**Role:** Senior React Native Consultant · owns product and engineering on a small startup team (Copenhagen, remote)
 
----
+<!-- TODO: add 2-3 screenshots, e.g. <img src="assets/wolfpack-1.png" width="230" /> -->
 
-## 💰 Fintech
+- **AI receipt scanner:** camera capture (JPEG, PNG, PDF) → automatic expense-data extraction, streamed live into the app and web dashboard
+- **Security-first auth:** biometric sign-in with **Ed25519** cryptographic signatures and secure keychain storage
+- **Real-time sync:** custom Server-Sent Events engine with auto-reconnect and exponential backoff
+- **Payments:** backend endpoints for **Danske Bank** banking API integration
+- **AI features:** agents with tool calling, RAG workflows and chatbots (LangChain, Llama, vector databases) with streaming responses
+- **Web:** Next.js (App Router) portal for expense approvals, permissions and real-time financial reporting
+- **Delivery:** automated TestFlight and Google Play releases via Bitbucket Pipelines and EAS
 
-### [Wolfpack — Expense Management](https://apps.apple.com/us/app/wolfpack/id1666599093)
-Enterprise expense management app I architected end-to-end at **Wolfpack** (Copenhagen). Built with React Native/Expo: 30+ custom components, biometric authentication with Ed25519 cryptographic signatures, real-time sync via a custom SSE engine, and an AI-powered receipt scanner with automated data extraction.
+**Stack:** React Native · Expo · Next.js · TypeScript · Supabase (Postgres) · Drizzle ORM · SSE · LangChain
 
 <p>
-  <a href="https://play.google.com/store/apps/details?id=com.expo.wolfpack&hl=en"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" /></a>
   <a href="https://apps.apple.com/us/app/wolfpack/id1666599093"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.expo.wolfpack"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" /></a>
+  <a href="https://wolfpack.dk/"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 </p>
 
-### [Wolfpack — Web Dashboard](https://wolfpack.dk/)
-The Next.js/React web admin portal I built alongside the mobile app — expense approvals, permission management, and real-time financial reporting analytics for teams and finance admins.
+### 2. Eyelevel ADHD (hiToco®) · Digital mental health (2022)
+**Role:** Senior React Native Engineer at Eyelevel.care (Basel, remote)
+
+- Resolved **100+ UI/UX bugs** and optimized rendering, raising user satisfaction and engagement by **20%**
+- Integrated Matomo analytics and performance monitoring; rebuilt the Jest testing setup
 
 <p>
-  <a href="https://wolfpack.dk/"><img src="https://img.shields.io/badge/Live_Site-000000?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-</p>
-
----
-
-## 🏥 Healthcare
-
-### [hiToco® — ADHS Elterntraining](https://apps.apple.com/at/app/hitoco-adhs-elterntraining/id1509691528)
-Digital mental-healthcare app (Eyelevel ADHD parent-training program) built at **eyelevel.care_de** (Basel). I redesigned the UI/UX, resolved 100+ bugs, and improved rendering performance and user engagement by 20%.
-
-<p>
-  <a href="https://play.google.com/store/apps/details?id=coach.doc.eyelevel&hl=en_US&pli=1"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" /></a>
   <a href="https://apps.apple.com/at/app/hitoco-adhs-elterntraining/id1509691528"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/details?id=coach.doc.eyelevel"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" /></a>
+</p>
+
+### 3. Looptify · Full product lifecycle (2022 to 2024)
+**Role:** Senior React Native & Full Stack Engineer (Los Angeles, remote)
+
+- Owned the whole product end to end: **React Native app**, **React/TailwindCSS admin panel** and **Node.js backend**
+- Designed the Prisma/MySQL data model for better performance, latency and data integrity
+- CI/CD with Fastlane, GitHub Actions and AWS Amplify
+
+<p>
+  <a href="http://web.archive.org/web/20240422120602/https://apps.apple.com/us/app/looptify/id1443666043"><img src="https://img.shields.io/badge/Archived_App_Store_listing-6E6E6E?style=flat-square&logo=internetarchive&logoColor=white" /></a>
+  <br/><sub>🗄️ No longer on the stores. Link opens an archived copy of the App Store page.</sub>
 </p>
 
 ---
 
-## 🏆 Sports & Community
+## 🤖 AI projects
 
-### [TapIn — Sports](https://apps.apple.com/us/app/tapin-sports/id1635323518)
-Sports/community app built at **Makeen Technologies**, part of the Vyoo product family.
+### [Livora AI](https://devpost.com/software/livora-ai) · Vitalitics™ 2026 Hackathon
+React Native app that turns blood and ultrasound reports into a personalized **Liver Health Score**, with an AI chat assistant, tracking over time and gamified milestones. I owned onboarding and auth, report upload, the AI chat and the API layer.
+<a href="https://devpost.com/software/livora-ai"><img src="https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white" /></a>
 
-<p>
-  <a href="https://play.google.com/store/apps/details?id=me.vyoo.sports&hl=en"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" /></a>
-  <a href="https://apps.apple.com/us/app/tapin-sports/id1635323518"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" /></a>
-</p>
+### [VoltShield](https://github.com/farheenimam/VoltSheild) · FORTYGUARD Urban Heat Hackathon 2026
+React + Node.js/Express web app with a **multi-agent AI pipeline** (heat, shade, financial, manager and critique agents) that predicts EV-charger overheating risk and simulates mitigations.
+<a href="https://github.com/farheenimam/VoltSheild"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<!-- The Render demo link timed out (free instances sleep). Re-add it only with a note: "demo may take ~30s to wake up". -->
 
-### [JB Members Lab](https://apps.apple.com/pk/app/jb-members-lab/id6446911970/)
-Membership/community platform app.
-
-<p>
-  <a href="https://play.google.com/store/apps/details?id=com.jbmemberslab.app&hl=en&gl=US"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" /></a>
-  <a href="https://apps.apple.com/pk/app/jb-members-lab/id6446911970/"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" /></a>
-</p>
-
----
-
-## 🛒 Retail & E-commerce
-
-### [Danube](https://apps.apple.com/pk/app/danube-%20%D8%A7%D9%84%D8%AF%D8%A7%D9%86%D9%88%D8%A8/id1097703117)
-Mobile app for Danube, a UAE-based supermarket chain — browsing and shopping built with React Native at Makeen Technologies.
-
-<p>
-  <a href="https://play.google.com/store/apps/details?id=com.app.danube&hl=en"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" /></a>
-  <a href="https://apps.apple.com/pk/app/danube-%20%D8%A7%D9%84%D8%AF%D8%A7%D9%86%D9%88%D8%A8/id1097703117"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" /></a>
-</p>
-
-### [GoSpark](https://apps.apple.com/pk/app/gospark/id1455340873/)
-Deals app for food, shopping and entertainment discounts, built at **Cooperative Computing**. Integrated iBeacon hardware, push notifications, and marketing SDKs; migrated the legacy codebase, boosting performance 40%.
-
-<p>
-  <a href="https://gospark.en.aptoide.com/app"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" /></a>
-  <a href="https://apps.apple.com/pk/app/gospark/id1455340873/"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" /></a>
-</p>
-
-### [Chicago Barber Supply](https://apps.apple.com/pk/app/chicago-barber-supply/id1590916738/)
-E-commerce app for a barber supply retailer.
-
-<p>
-  <a href="https://play.google.com/store/apps/details?id=com.chicagobarbersupply.app"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" /></a>
-  <a href="https://apps.apple.com/pk/app/chicago-barber-supply/id1590916738/"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" /></a>
-</p>
-
-### [Inventory App — SS-CMMS Mobile Assistant](https://apkpure.com/ss-cmms-mobile-assistant-maint/com.prod.sscmms)
-Inventory/maintenance management assistant built at **Third Venture Interactive**, with an Express.js + PostgreSQL backend I built for the donation-management system it plugs into.
-
-<p>
-  <a href="https://apkpure.com/ss-cmms-mobile-assistant-maint/com.prod.sscmms"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" /></a>
-</p>
+<!-- TODO (recommended): once you publish the open-source demos, add them here:
+### react-native-ed25519-biometric-auth · Biometric sign-in with Ed25519 signatures
+### sse-realtime-sync · SSE provider with reconnect and exponential backoff
+### ai-receipt-scanner-demo · Camera capture → LLM data extraction
+-->
 
 ---
 
-## 🎬 Entertainment & Business Tools
+## 📱 More shipped apps
 
-### [Looptify](https://apps.apple.com/us/app/looptify/id1443666043/)
-Full-stack product I managed end-to-end at **Looptify** — React Native app, React.js admin panel, and Node.js backend on MySQL/Prisma.
+| App | Industry | Built at | My role | Status |
+|---|---|---|---|---|
+| [TapIn Sports](https://apps.apple.com/us/app/tapin-sports/id1635323518) | Sports / community | Makeen Technologies | React Native development | ✅ [App Store](https://apps.apple.com/us/app/tapin-sports/id1635323518) · [Google Play](https://play.google.com/store/apps/details?id=me.vyoo.sports) |
+| Apple TV app (Netflux) | Video / entertainment | Makeen Technologies | Designed, built and shipped a production **tvOS** app with React Native tvOS | [Project page](https://makeen.io/netflux-video-sharing/) |
+| Transform 2.0 | Business software | Makeen Technologies | Contributed to the core product | 🔒 Internal platform (login required) |
+| [Danube](https://apps.apple.com/pk/app/danube-%20%D8%A7%D9%84%D8%AF%D8%A7%D9%86%D9%88%D8%A8/id1097703117) | Retail (UAE supermarket) | Cooperative Computing | React Native development | ✅ [App Store](https://apps.apple.com/pk/app/danube-%20%D8%A7%D9%84%D8%AF%D8%A7%D9%86%D9%88%D8%A8/id1097703117) · [Google Play](https://play.google.com/store/apps/details?id=com.app.danube) |
+| GoSpark | Deals / food discovery | Cooperative Computing | Migrated legacy code to modern React Native (**+40% client speed**); iBeacons, push, analytics SDKs | 🗄️ [Archived listing](http://web.archive.org/web/20231010063206/https://apps.apple.com/pk/app/gospark/id1455340873) |
+| UAE airline app | Travel | Acumen Advertising Agency (Dubai) | **Led a small mobile team**; native UI components; code review | 🔒 Client confidential |
+| SS-CMMS Mobile Assistant | Maintenance management | Third Venture Interactive | React Native components; Express.js + PostgreSQL REST APIs | 🗄️ No longer on Google Play |
+| Chicago Barber Supply | E-commerce | Freelance | Built the full app in React Native | 🗄️ [Archived listing](http://web.archive.org/web/20231010034924/https://apps.apple.com/us/app/chicago-barber-supply/id1590916738) |
+| JB Members Lab | Membership / community | Freelance | Built the full app in **Flutter** | 🗄️ No longer on the stores |
 
-<p>
-  <a href="https://apkpure.com/looptify/com.looptify.looptifyapp"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" /></a>
-  <a href="https://apps.apple.com/us/app/looptify/id1443666043/"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" /></a>
-</p>
-
-### [Transform](https://transform.makeen.io/)
-Business-transformation platform built at **Makeen Technologies**, helping companies streamline operations and cut costs.
-
-<p>
-  <a href="https://transform.makeen.io/"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-</p>
-
-### Netflux (tvOS) 🔒
-Confidential streaming project for Apple TV with millions of users, built with React Native TVOS at Makeen Technologies.
-
-### Flight Booking App — UAE Airline 🔒
-Confidential flight-booking app for a major UAE-based airline (Android & iOS), built at **Acumen Advertising Agency**, where I led the mobile team.
+<sub>Several apps were later removed from the stores by their owners (company changes, rebrands or shutdowns). Where possible I link to an archived copy of the original store listing.</sub>
 
 ---
 
-## 🏆 Hackathon Projects
+## 🧰 Tech I build with
 
-### [Livora AI](https://devpost.com/software/livora-ai) — Health-Tech Hackathon
-A React Native app that turns blood and ultrasound reports into a personalized **Liver Health Score**, with an AI chatbot, longitudinal tracking, and gamified milestones to keep users engaged with their liver health over time. I owned it end-to-end: onboarding & auth, report upload/ingestion, the AI chat assistant, and the API layer underneath.
-
-<p>
-  <a href="https://devpost.com/software/livora-ai"><img src="https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white" /></a>
-</p>
-
-### [VoltShield — Climate-Resilient EV Siting Copilot](https://github.com/farheenimam/VoltSheild) — FortyGuard Urban Heat Hackathon 2026
-A full-stack web app (React + Node.js/Express) that pairs FortyGuard's 10-meter urban heat intelligence with a multi-agent AI pipeline (heat, shade, financial, manager & critique agents) to predict EV charger overheating risk, quantify revenue loss from thermal derating, and simulate mitigations like solar canopies and high-albedo sealcoats — all to keep sites compliant with the federal NEVI 97% uptime mandate.
-
-<p>
-  <a href="https://voltshield-sw7k.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://github.com/farheenimam/VoltSheild"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-## 🧰 Tech I Build With
-
-`React Native` · `React.js` · `Next.js` · `TypeScript` · `Node.js` · `GraphQL` · `PostgreSQL` · `MySQL` · `Prisma` · `Drizzle ORM` · `Redux` · `MobX State Tree` · `AWS` · `Firebase` · `Supabase` · `Fastlane` · `EAS` · `Bitbucket/GitHub Actions CI-CD`
+**Mobile:** React Native · Expo / EAS · Flutter · iOS · Android · tvOS · native modules (Swift / Kotlin)
+**Web:** React · Next.js · TypeScript · TailwindCSS · Redux · MobX State Tree · Jotai · React Query
+**Backend & data:** Node.js (Express, NestJS) · Python (FastAPI, Django) · GraphQL · REST · PostgreSQL · MySQL · Prisma · Drizzle ORM · Supabase
+**AI:** LangChain · RAG · agents and tool calling · Hugging Face / Llama · vector databases
+**Delivery:** GitHub Actions · Bitbucket Pipelines · Fastlane · EAS · AWS · Vercel · Docker · Jest
+**Daily tools:** Claude Code · Cursor · Gemini
 
 ---
 
 <p align="center">
-  Have a project in mind? <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ishaqashraf90@gmail.com">Let's talk</a> — or check out my <a href="https://github.com/ishaqashraf">main GitHub profile</a>.
+  <b>Hiring for React Native, full-stack or AI product work?</b><br/>
+  <a href="mailto:ishaqashraf90@gmail.com">ishaqashraf90@gmail.com</a> · <a href="https://www.linkedin.com/in/ishaq-ashraf-35249095/">LinkedIn</a>
 </p>
